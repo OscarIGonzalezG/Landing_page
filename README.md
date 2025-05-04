@@ -1,0 +1,1 @@
+Este es un ejercico de The Odin Proyect, el cual es realizar una landing page para avanzar con el repaso de HTML5 y CSS3. Esto me permite refozar mis conocimientos y practicar para poder manejar de mejor manera estas tecnologias.
