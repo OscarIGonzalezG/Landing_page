@@ -15,6 +15,11 @@ header, main, footer{
     
     
 }
+
+.header, .hero{
+    margin-bottom: 90px;
+
+}
 /* Color de fondo de header y footer*/
 header, footer{
     background-color: #1F2937;
