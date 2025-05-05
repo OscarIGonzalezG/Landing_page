@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'Roboto';
+
+}
+header, main, footer{
+    border: black 2px solid;
+    
+}
+/* Color de fondo de header y footer*/
+header, footer{
+    background-color: #1F2937;
+}
+
+/* tamaño y color del h1 */
+.izquierdo h1{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+/* subrayado y punto quitados de menu*/
+li,a {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+/* tamaño y color de parrafo y menu */
+.izquierdo p, .menu a{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 16px; 
+}
+
+.hero{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+
+.derecho img {
+    height: 150px;
+    width: 300px;
+}
