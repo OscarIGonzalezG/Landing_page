@@ -10,6 +10,9 @@ body{
 }
 header, main, footer{
     border: black 2px solid;
+    width: 100%;
+    padding:0 90px ;
+    
     
 }
 /* Color de fondo de header y footer*/
